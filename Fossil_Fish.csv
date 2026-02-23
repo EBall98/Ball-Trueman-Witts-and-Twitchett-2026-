@@ -1,0 +1,92 @@
+﻿SampleID,Age,Common_name,Order,Family,Genus,Species,Location,PopID,Date,Year,Data_set,Mass,Length,d13Coto,d18Ooto,d18Ow,d13CDIC,d13Cdiet,MOL,Depth
+LCDP 01,Fossil,cusk-eel,Ophidiiformes,Bythitidae,Grammonus,Grammonus argutus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.56,-2.05,-1,,,Benthic/Demersal,Upper slope
+LCDP 02,Fossil,cusk-eel,Ophidiiformes,Bythitidae,Grammonus,Grammonus argutus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-2.05,-1.93,-1,,,Benthic/Demersal,Upper slope
+LCDP 03,Fossil,cusk-eel,Ophidiiformes,Bythitidae,Grammonus,Grammonus argutus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.92,-1.69,-1,,,Benthic/Demersal,Upper slope
+LCDP 04,Fossil,cusk-eel,Ophidiiformes,Bythitidae,Grammonus,Grammonus argutus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.84,-1.87,-1,,,Benthic/Demersal,Upper slope
+LCDP 05,Fossil,cusk-eel,Ophidiiformes,Bythitidae,Grammonus,Grammonus argutus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-2.73,-1.99,-1,,,Benthic/Demersal,Upper slope
+LCDP 06,Fossil,cusk-eel,Ophidiiformes,Bythitidae,Grammonus,Grammonus argutus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.71,-1.89,-1,,,Benthic/Demersal,Upper slope
+LCDP 07,Fossil,cusk-eel,Ophidiiformes,Bythitidae,Grammonus,Grammonus argutus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-2.91,-2.21,-1,,,Benthic/Demersal,Upper slope
+LCDP 08,Fossil,cusk-eel,Ophidiiformes,Bythitidae,Grammonus,Grammonus argutus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-2.75,-2.06,-1,,,Benthic/Demersal,Upper slope
+LCDP 09,Fossil,cusk-eel,Ophidiiformes,Bythitidae,Grammonus,Grammonus argutus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-2.7,-2.21,-1,,,Benthic/Demersal,Upper slope
+LCDP 10,Fossil,cusk-eel,Ophidiiformes,Bythitidae,Grammonus,Grammonus argutus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-2.46,-2.18,-1,,,Benthic/Demersal,Upper slope
+LCMA 01,Fossil,Hake,Gadiformes,Melucciidae,Rhinocephalus,Rhinocephalus planiceps,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.44,-1.77,-1,,,Benthic/Demersal,Shelf
+LCMA 02,Fossil,Hake,Gadiformes,Melucciidae,Rhinocephalus,Rhinocephalus planiceps,Sheppey,,03/05/2024,2024,Fossil Fish,,,-2.03,-2.2,-1,,,Benthic/Demersal,Shelf
+LCMA 03,Fossil,Hake,Gadiformes,Melucciidae,Rhinocephalus,Rhinocephalus planiceps,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.4,-3.54,-1,,,Benthic/Demersal,Shelf
+LCMA 05,Fossil,Hake,Gadiformes,Melucciidae,Rhinocephalus,Rhinocephalus planiceps,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.35,-2.64,-1,,,Benthic/Demersal,Shelf
+LCMA 06,Fossil,Hake,Gadiformes,Melucciidae,Rhinocephalus,Rhinocephalus planiceps,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.19,-2.18,-1,,,Benthic/Demersal,Shelf
+LCMA 07,Fossil,Hake,Gadiformes,Melucciidae,Rhinocephalus,Rhinocephalus planiceps,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.73,-3.11,-1,,,Benthic/Demersal,Shelf
+LCMA 08,Fossil,Hake,Gadiformes,Melucciidae,Rhinocephalus,Rhinocephalus planiceps,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.69,-2.93,-1,,,Benthic/Demersal,Shelf
+LCMA 09,Fossil,Hake,Gadiformes,Melucciidae,Rhinocephalus,Rhinocephalus planiceps,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.28,-1.66,-1,,,Benthic/Demersal,Shelf
+LCMA 10,Fossil,Hake,Gadiformes,Melucciidae,Rhinocephalus,Rhinocephalus planiceps,Sheppey,,03/05/2024,2024,Fossil Fish,,,-0.87,-1.8,-1,,,Benthic/Demersal,Shelf
+LCMS 01,Fossil,cod,Gadiformes,Gadidae,Protocolliolus,Protocolliolus eocenicus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-2.63,-2.42,-1,,,Pelagic,Shelf
+LCMS 02,Fossil,cod,Gadiformes,Gadidae,Protocolliolus,Protocolliolus eocenicus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-4.01,-2.84,-1,,,Pelagic,Shelf
+LCMS 03,Fossil,cod,Gadiformes,Gadidae,Protocolliolus,Protocolliolus eocenicus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-3.3,-2.53,-1,,,Pelagic,Shelf
+LCMS 04,Fossil,cod,Gadiformes,Gadidae,Protocolliolus,Protocolliolus eocenicus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-2.98,-2.33,-1,,,Pelagic,Shelf
+LCNB 02,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Ampheristus,Ampheristus obtusus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-0.62,-1.83,-1,,,Benthic/Demersal,Upper slope
+LCNB 03,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Ampheristus,Ampheristus obtusus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.6,-2,-1,,,Benthic/Demersal,Upper slope
+LCNB 04,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Ampheristus,Ampheristus obtusus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.56,-1.82,-1,,,Benthic/Demersal,Upper slope
+LCNB 05,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Ampheristus,Ampheristus obtusus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.58,-1.69,-1,,,Benthic/Demersal,Upper slope
+LCNB 06,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Ampheristus,Ampheristus obtusus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.84,-2.08,-1,,,Benthic/Demersal,Upper slope
+LCNB 07,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Ampheristus,Ampheristus obtusus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.73,-2.1,-1,,,Benthic/Demersal,Upper slope
+LCNB 08,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Ampheristus,Ampheristus obtusus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.03,-2.1,-1,,,Benthic/Demersal,Upper slope
+LCNB 09,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Ampheristus,Ampheristus obtusus,Sheppey,,03/05/2024,2024,Fossil Fish,,,0.09,-3.6,-1,,,Benthic/Demersal,Upper slope
+LCNB 10,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Ampheristus,Ampheristus obtusus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.66,-2.53,-1,,,Benthic/Demersal,Upper slope
+LCNM 01,Fossil,Bream,Spariformes,Sparidae,Spicara,Spicara ministerensis,Tolworth,,03/05/2024,2024,Fossil Fish,,,-2.88,-2.86,-1,,,Pelagic,Shelf
+LCNM 02,Fossil,Bream,Spariformes,Sparidae,Spicara,Spicara ministerensis,Tolworth,,03/05/2024,2024,Fossil Fish,,,-2.29,-4.82,-1,,,Pelagic,Shelf
+LCNM 03,Fossil,Bream,Spariformes,Sparidae,Spicara,Spicara ministerensis,Tolworth,,03/05/2024,2024,Fossil Fish,,,-2.28,-3.81,-1,,,Pelagic,Shelf
+LCNM 04,Fossil,Bream,Spariformes,Sparidae,Spicara,Spicara ministerensis,Tolworth,,03/05/2024,2024,Fossil Fish,,,-4.79,-4.28,-1,,,Pelagic,Shelf
+LCNM 05,Fossil,Bream,Spariformes,Sparidae,Spicara,Spicara ministerensis,Tolworth,,03/05/2024,2024,Fossil Fish,,,-3.11,-3.72,-1,,,Pelagic,Shelf
+LCNM 06,Fossil,Bream,Spariformes,Sparidae,Spicara,Spicara ministerensis,Tolworth,,03/05/2024,2024,Fossil Fish,,,-3.09,-3.2,-1,,,Pelagic,Shelf
+LCNM 07,Fossil,Bream,Spariformes,Sparidae,Spicara,Spicara ministerensis,Tolworth,,03/05/2024,2024,Fossil Fish,,,-3.95,-2.59,-1,,,Pelagic,Shelf
+LCNM 08,Fossil,Bream,Spariformes,Sparidae,Spicara,Spicara ministerensis,Tolworth,,03/05/2024,2024,Fossil Fish,,,-3.18,-4.23,-1,,,Pelagic,Shelf
+LCNM 09,Fossil,Bream,Spariformes,Sparidae,Spicara,Spicara ministerensis,Tolworth,,03/05/2024,2024,Fossil Fish,,,-3.83,-3.82,-1,,,Pelagic,Shelf
+LCNM10,Fossil,Bream,Spariformes,Sparidae,Spicara,Spicara ministerensis,Tolworth,,03/05/2024,2024,Fossil Fish,,,-2.15,-5.23,-1,,,Pelagic,Shelf
+LCOS 01,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Zonobythites,Zonobythites splendens,Sheppey,,03/05/2024,2024,Fossil Fish,,,-0.58,-2.52,-1,,,Benthic/Demersal,Upper slope
+LCOS 02,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Zonobythites,Zonobythites splendens,Sheppey,,03/05/2024,2024,Fossil Fish,,,-0.54,-2.53,-1,,,Benthic/Demersal,Upper slope
+LCOS 03,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Zonobythites,Zonobythites splendens,Sheppey,,03/05/2024,2024,Fossil Fish,,,0.14,-1.67,-1,,,Benthic/Demersal,Upper slope
+LCOS 04,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Zonobythites,Zonobythites splendens,Sheppey,,03/05/2024,2024,Fossil Fish,,,0.46,-2.17,-1,,,Benthic/Demersal,Upper slope
+LCOS 05,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Zonobythites,Zonobythites splendens,Sheppey,,03/05/2024,2024,Fossil Fish,,,-0.41,-1.95,-1,,,Benthic/Demersal,Upper slope
+LCOS 06,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Zonobythites,Zonobythites splendens,Sheppey,,03/05/2024,2024,Fossil Fish,,,-0.45,-1.61,-1,,,Benthic/Demersal,Upper slope
+LCOS 07,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Zonobythites,Zonobythites splendens,Sheppey,,03/05/2024,2024,Fossil Fish,,,0.14,-1.99,-1,,,Benthic/Demersal,Upper slope
+LCOS 08,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Zonobythites,Zonobythites splendens,Sheppey,,03/05/2024,2024,Fossil Fish,,,-0.25,-1.87,-1,,,Benthic/Demersal,Upper slope
+LCOS 09,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Zonobythites,Zonobythites splendens,Sheppey,,03/05/2024,2024,Fossil Fish,,,-0.22,-1.51,-1,,,Benthic/Demersal,Upper slope
+LCOS 10,Fossil,cusk-eel,Ophidiiformes,Ophidiidae,Zonobythites,Zonobythites splendens,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.06,-3,-1,,,Benthic/Demersal,Upper slope
+LCPA 02,Fossil,Bonefish,Albuliformes,Pterothrissidae,Pterothrissus,Pterothrissus angulatus,Tolworth,,03/05/2024,2024,Fossil Fish,,,-1.9,-3.12,-1,,,Benthic/Demersal,Shelf
+LCPA 03,Fossil,Bonefish,Albuliformes,Pterothrissidae,Pterothrissus,Pterothrissus angulatus,Tolworth,,03/05/2024,2024,Fossil Fish,,,-2.04,-3.65,-1,,,Benthic/Demersal,Shelf
+LCPA 04,Fossil,Bonefish,Albuliformes,Pterothrissidae,Pterothrissus,Pterothrissus angulatus,Tolworth,,03/05/2024,2024,Fossil Fish,,,-3.01,-4.11,-1,,,Benthic/Demersal,Shelf
+LCPA 05,Fossil,Bonefish,Albuliformes,Pterothrissidae,Pterothrissus,Pterothrissus angulatus,Tolworth,,03/05/2024,2024,Fossil Fish,,,-2.99,-4.11,-1,,,Benthic/Demersal,Shelf
+LCPA 06,Fossil,Bonefish,Albuliformes,Pterothrissidae,Pterothrissus,Pterothrissus angulatus,Tolworth,,03/05/2024,2024,Fossil Fish,,,-2.37,-3.77,-1,,,Benthic/Demersal,Shelf
+LCPA 07,Fossil,Bonefish,Albuliformes,Pterothrissidae,Pterothrissus,Pterothrissus angulatus,Tolworth,,03/05/2024,2024,Fossil Fish,,,-2.19,-4.65,-1,,,Benthic/Demersal,Shelf
+LCPA 08,Fossil,Bonefish,Albuliformes,Pterothrissidae,Pterothrissus,Pterothrissus angulatus,Tolworth,,03/05/2024,2024,Fossil Fish,,,-2.09,-2.96,-1,,,Benthic/Demersal,Shelf
+LCPA 09,Fossil,Bonefish,Albuliformes,Pterothrissidae,Pterothrissus,Pterothrissus angulatus,Tolworth,,03/05/2024,2024,Fossil Fish,,,-2.92,-2.98,-1,,,Benthic/Demersal,Shelf
+LCPA 10,Fossil,Bonefish,Albuliformes,Pterothrissidae,Pterothrissus,Pterothrissus angulatus,Tolworth,,03/05/2024,2024,Fossil Fish,,,-2.61,-4.21,-1,,,Benthic/Demersal,Shelf
+LCSD 01,Fossil,Lizardfish,Aulopiformes,Paraulopidae,Paraulopus,Paraulopus davisi,Sheppey,,03/05/2024,2024,Fossil Fish,,,-5.22,-1.99,-1,,,Pelagic,Upper slope
+LCSD 02,Fossil,Lizardfish,Aulopiformes,Paraulopidae,Paraulopus,Paraulopus davisi,Sheppey,,03/05/2024,2024,Fossil Fish,,,-5.55,-0.65,-1,,,Pelagic,Upper slope
+LCSD 03,Fossil,Lizardfish,Aulopiformes,Paraulopidae,Paraulopus,Paraulopus davisi,Sheppey,,03/05/2024,2024,Fossil Fish,,,-4.02,-1.97,-1,,,Pelagic,Upper slope
+LCSD 04,Fossil,Lizardfish,Aulopiformes,Paraulopidae,Paraulopus,Paraulopus davisi,Sheppey,,03/05/2024,2024,Fossil Fish,,,-5.41,-2.58,-1,,,Pelagic,Upper slope
+LCSD 05,Fossil,Lizardfish,Aulopiformes,Paraulopidae,Paraulopus,Paraulopus davisi,Sheppey,,03/05/2024,2024,Fossil Fish,,,-3.78,-2.35,-1,,,Pelagic,Upper slope
+LCSD 06,Fossil,Lizardfish,Aulopiformes,Paraulopidae,Paraulopus,Paraulopus davisi,Sheppey,,03/05/2024,2024,Fossil Fish,,,-3.88,-1.9,-1,,,Pelagic,Upper slope
+LCSD 07,Fossil,Lizardfish,Aulopiformes,Paraulopidae,Paraulopus,Paraulopus davisi,Sheppey,,03/05/2024,2024,Fossil Fish,,,-4.35,-1.86,-1,,,Pelagic,Upper slope
+LCSD 08,Fossil,Lizardfish,Aulopiformes,Paraulopidae,Paraulopus,Paraulopus davisi,Sheppey,,03/05/2024,2024,Fossil Fish,,,-5.97,-2.96,-1,,,Pelagic,Upper slope
+LCSD 09,Fossil,Lizardfish,Aulopiformes,Paraulopidae,Paraulopus,Paraulopus davisi,Sheppey,,03/05/2024,2024,Fossil Fish,,,-4.69,-1.91,-1,,,Pelagic,Upper slope
+LCSD 10,Fossil,Lizardfish,Aulopiformes,Paraulopidae,Paraulopus,Paraulopus davisi,Sheppey,,03/05/2024,2024,Fossil Fish,,,-3.55,-1.07,-1,,,Pelagic,Upper slope
+LCSS 01,Fossil,Sculpin,Scorpaeniformes,Scorpaenidae,Scorpaenichthys,Scorpaenichthys subtilis,Isleworth,,03/05/2024,2025,Fossil Fish,,,-6.06,-2.67,-1,,,Pelagic,Shelf
+LCSS 02,Fossil,Sculpin,Scorpaeniformes,Scorpaenidae,Scorpaenichthys,Scorpaenichthys subtilis,Isleworth,,03/05/2024,2026,Fossil Fish,,,-6.48,-2.74,-1,,,Pelagic,Shelf
+LCSS 03,Fossil,Sculpin,Scorpaeniformes,Scorpaenidae,Scorpaenichthys,Scorpaenichthys subtilis,Isleworth,,03/05/2024,2027,Fossil Fish,,,-6.27,-2.78,-1,,,Pelagic,Shelf
+LCSS 04,Fossil,Sculpin,Scorpaeniformes,Scorpaenidae,Scorpaenichthys,Scorpaenichthys subtilis,Isleworth,,03/05/2024,2028,Fossil Fish,,,-6.61,-3.04,-1,,,Pelagic,Shelf
+LCSS 05,Fossil,Sculpin,Scorpaeniformes,Scorpaenidae,Scorpaenichthys,Scorpaenichthys subtilis,Isleworth,,03/05/2024,2029,Fossil Fish,,,-6.12,-3.63,-1,,,Pelagic,Shelf
+LCSS 06,Fossil,Sculpin,Scorpaeniformes,Scorpaenidae,Scorpaenichthys,Scorpaenichthys subtilis,Isleworth,,03/05/2024,2030,Fossil Fish,,,-7.51,-3.38,-1,,,Pelagic,Shelf
+LCSS 07,Fossil,Sculpin,Scorpaeniformes,Scorpaenidae,Scorpaenichthys,Scorpaenichthys subtilis,Isleworth,,03/05/2024,2031,Fossil Fish,,,-6.26,-3.56,-1,,,Pelagic,Shelf
+LCSS 08,Fossil,Sculpin,Scorpaeniformes,Scorpaenidae,Scorpaenichthys,Scorpaenichthys subtilis,Isleworth,,03/05/2024,2032,Fossil Fish,,,-7.96,-2.91,-1,,,Pelagic,Shelf
+LCSS 09,Fossil,Sculpin,Scorpaeniformes,Scorpaenidae,Scorpaenichthys,Scorpaenichthys subtilis,Isleworth,,03/05/2024,2033,Fossil Fish,,,-6.54,-3.87,-1,,,Pelagic,Shelf
+LCSS 10,Fossil,Sculpin,Scorpaeniformes,Scorpaenidae,Scorpaenichthys,Scorpaenichthys subtilis,Isleworth,,03/05/2024,2024,Fossil Fish,,,-7.19,-3.73,-1,,,Pelagic,Shelf
+LCTL 01,Fossil,Alphonsino,Beryciformes,Berycidae,Centroberyx,Centroberyx eocenicus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.81,-2.91,-1,,,Benthic/Demersal,Shelf
+LCTL 02,Fossil,Alphonsino,Beryciformes,Berycidae,Centroberyx,Centroberyx eocenicus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.21,-3.1,-1,,,Benthic/Demersal,Shelf
+LCTL 03,Fossil,Alphonsino,Beryciformes,Berycidae,Centroberyx,Centroberyx eocenicus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-2,-2.58,-1,,,Benthic/Demersal,Shelf
+LCTL 04,Fossil,Alphonsino,Beryciformes,Berycidae,Centroberyx,Centroberyx eocenicus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.68,-2.83,-1,,,Benthic/Demersal,Shelf
+LCTL 05,Fossil,Alphonsino,Beryciformes,Berycidae,Centroberyx,Centroberyx eocenicus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-2.38,-2.87,-1,,,Benthic/Demersal,Shelf
+LCTL 06,Fossil,Alphonsino,Beryciformes,Berycidae,Centroberyx,Centroberyx eocenicus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.13,-2.57,-1,,,Benthic/Demersal,Shelf
+LCTL 07,Fossil,Alphonsino,Beryciformes,Berycidae,Centroberyx,Centroberyx eocenicus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-0.88,-4.06,-1,,,Benthic/Demersal,Shelf
+LCTL 08,Fossil,Alphonsino,Beryciformes,Berycidae,Centroberyx,Centroberyx eocenicus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.6,-3.9,-1,,,Benthic/Demersal,Shelf
+LCTL 09,Fossil,Alphonsino,Beryciformes,Berycidae,Centroberyx,Centroberyx eocenicus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-2.17,-3.05,-1,,,Benthic/Demersal,Shelf
+LCTL 10,Fossil,Alphonsino,Beryciformes,Berycidae,Centroberyx,Centroberyx eocenicus,Sheppey,,03/05/2024,2024,Fossil Fish,,,-1.43,-3.64,-1,,,Benthic/Demersal,Shelf
